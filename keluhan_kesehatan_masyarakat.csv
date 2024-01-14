@@ -1,0 +1,1261 @@
+nama_variabel,nama_wilayah,tahun,jenis_kelamin,tipe_daerah,presentase
+Keluhan Kesehatan Masyarakat,Aceh,2017,laki_laki,perkotaan,22.33111464
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,laki_laki,perkotaan,22.43909198
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,laki_laki,perkotaan,28.91195897
+Keluhan Kesehatan Masyarakat,Riau,2017,laki_laki,perkotaan,24.79644376
+Keluhan Kesehatan Masyarakat,Jambi,2017,laki_laki,perkotaan,22.96611082
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,laki_laki,perkotaan,30.20276816
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,laki_laki,perkotaan,24.41325854
+Keluhan Kesehatan Masyarakat,Lampung,2017,laki_laki,perkotaan,25.42969665
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,laki_laki,perkotaan,28.00643871
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,laki_laki,perkotaan,20.37665798
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,laki_laki,perkotaan,26.66158769
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,laki_laki,perkotaan,27.71866889
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,laki_laki,perkotaan,31.216325
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,laki_laki,perkotaan,29.74300181
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,laki_laki,perkotaan,29.78347959
+Keluhan Kesehatan Masyarakat,Banten,2017,laki_laki,perkotaan,26.08980713
+Keluhan Kesehatan Masyarakat,Bali,2017,laki_laki,perkotaan,25.55815442
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,laki_laki,perkotaan,28.42529783
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,laki_laki,perkotaan,36.53727758
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,laki_laki,perkotaan,21.89890486
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,laki_laki,perkotaan,26.4784143
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,laki_laki,perkotaan,33.85820822
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,laki_laki,perkotaan,24.45912195
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,laki_laki,perkotaan,25.98004508
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,laki_laki,perkotaan,23.19580708
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,laki_laki,perkotaan,26.42460129
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,laki_laki,perkotaan,23.84070041
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,laki_laki,perkotaan,24.64383182
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,laki_laki,perkotaan,33.91074856
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,laki_laki,perkotaan,24.75052149
+Keluhan Kesehatan Masyarakat,Maluku,2017,laki_laki,perkotaan,18.73100683
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,laki_laki,perkotaan,13.07556887
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,laki_laki,perkotaan,19.67552884
+Keluhan Kesehatan Masyarakat,Papua,2017,laki_laki,perkotaan,22.2151005
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,laki_laki,perkotaan,27.48654459
+Keluhan Kesehatan Masyarakat,Aceh,2017,laki_laki,perdesaan,23.32515458
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,laki_laki,perdesaan,22.34032803
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,laki_laki,perdesaan,26.22680285
+Keluhan Kesehatan Masyarakat,Riau,2017,laki_laki,perdesaan,26.43123893
+Keluhan Kesehatan Masyarakat,Jambi,2017,laki_laki,perdesaan,19.25937085
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,laki_laki,perdesaan,23.72703538
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,laki_laki,perdesaan,23.07386523
+Keluhan Kesehatan Masyarakat,Lampung,2017,laki_laki,perdesaan,28.20551739
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,laki_laki,perdesaan,23.88543641
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,laki_laki,perdesaan,20.28214391
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,laki_laki,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,laki_laki,perdesaan,29.79488695
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,laki_laki,perdesaan,31.40953611
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,laki_laki,perdesaan,33.39910166
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,laki_laki,perdesaan,30.58203023
+Keluhan Kesehatan Masyarakat,Banten,2017,laki_laki,perdesaan,26.80917958
+Keluhan Kesehatan Masyarakat,Bali,2017,laki_laki,perdesaan,32.14072321
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,laki_laki,perdesaan,29.13639232
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,laki_laki,perdesaan,32.11957128
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,laki_laki,perdesaan,24.43297144
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,laki_laki,perdesaan,23.73438698
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,laki_laki,perdesaan,30.58527537
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,laki_laki,perdesaan,20.65851427
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,laki_laki,perdesaan,30.30068452
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,laki_laki,perdesaan,28.64535199
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,laki_laki,perdesaan,29.42267003
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,laki_laki,perdesaan,23.0811614
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,laki_laki,perdesaan,22.64143945
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,laki_laki,perdesaan,33.86091002
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,laki_laki,perdesaan,24.8696253
+Keluhan Kesehatan Masyarakat,Maluku,2017,laki_laki,perdesaan,17.50361432
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,laki_laki,perdesaan,16.23334191
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,laki_laki,perdesaan,18.62786813
+Keluhan Kesehatan Masyarakat,Papua,2017,laki_laki,perdesaan,14.46691069
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,laki_laki,perdesaan,27.38413977
+Keluhan Kesehatan Masyarakat,Aceh,2017,laki_laki,gabungan,23.02506874
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,laki_laki,gabungan,22.39056929
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,laki_laki,gabungan,27.33932723
+Keluhan Kesehatan Masyarakat,Riau,2017,laki_laki,gabungan,25.78367864
+Keluhan Kesehatan Masyarakat,Jambi,2017,laki_laki,gabungan,20.41613085
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,laki_laki,gabungan,26.06957248
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,laki_laki,gabungan,23.49598269
+Keluhan Kesehatan Masyarakat,Lampung,2017,laki_laki,gabungan,27.4532805
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,laki_laki,gabungan,26.02298098
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,laki_laki,gabungan,20.36222737
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,laki_laki,gabungan,26.66158769
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,laki_laki,gabungan,28.30099243
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,laki_laki,gabungan,31.31448285
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,laki_laki,gabungan,30.81778756
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,laki_laki,gabungan,30.1734263
+Keluhan Kesehatan Masyarakat,Banten,2017,laki_laki,gabungan,26.30739865
+Keluhan Kesehatan Masyarakat,Bali,2017,laki_laki,gabungan,27.91599673
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,laki_laki,gabungan,28.81953759
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,laki_laki,gabungan,33.08430682
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,laki_laki,gabungan,23.64196377
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,laki_laki,gabungan,24.70820985
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,laki_laki,gabungan,32.02950919
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,laki_laki,gabungan,23.15856089
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,laki_laki,gabungan,27.84152605
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,laki_laki,gabungan,26.0819475
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,laki_laki,gabungan,28.65888853
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,laki_laki,gabungan,23.38317868
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,laki_laki,gabungan,23.28128396
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,laki_laki,gabungan,33.87872149
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,laki_laki,gabungan,24.84527488
+Keluhan Kesehatan Masyarakat,Maluku,2017,laki_laki,gabungan,18.00074071
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,laki_laki,gabungan,15.36629489
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,laki_laki,gabungan,19.03714087
+Keluhan Kesehatan Masyarakat,Papua,2017,laki_laki,gabungan,16.6033379
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,laki_laki,gabungan,27.43837684
+Keluhan Kesehatan Masyarakat,Aceh,2017,perempuan,perkotaan,26.010208
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,perempuan,perkotaan,24.43966211
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,perempuan,perkotaan,32.02397227
+Keluhan Kesehatan Masyarakat,Riau,2017,perempuan,perkotaan,27.95910541
+Keluhan Kesehatan Masyarakat,Jambi,2017,perempuan,perkotaan,22.54115775
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,perempuan,perkotaan,30.48550374
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,perempuan,perkotaan,28.0580588
+Keluhan Kesehatan Masyarakat,Lampung,2017,perempuan,perkotaan,26.16344831
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,perempuan,perkotaan,32.73143293
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,perempuan,perkotaan,22.7358116
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,perempuan,perkotaan,27.43708401
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,perempuan,perkotaan,29.66962557
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,perempuan,perkotaan,34.41078571
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,perempuan,perkotaan,33.63882234
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,perempuan,perkotaan,32.70407443
+Keluhan Kesehatan Masyarakat,Banten,2017,perempuan,perkotaan,28.60453564
+Keluhan Kesehatan Masyarakat,Bali,2017,perempuan,perkotaan,27.33294061
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,perempuan,perkotaan,33.18658781
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,perempuan,perkotaan,37.99173492
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,perempuan,perkotaan,24.35462382
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,perempuan,perkotaan,28.6513832
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,perempuan,perkotaan,37.57767254
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,perempuan,perkotaan,27.01852471
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,perempuan,perkotaan,28.09671051
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,perempuan,perkotaan,24.42767606
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,perempuan,perkotaan,27.65073035
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,perempuan,perkotaan,26.28754328
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,perempuan,perkotaan,25.88342634
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,perempuan,perkotaan,35.88776819
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,perempuan,perkotaan,25.8512125
+Keluhan Kesehatan Masyarakat,Maluku,2017,perempuan,perkotaan,21.0840644
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,perempuan,perkotaan,14.50216365
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,perempuan,perkotaan,23.15881782
+Keluhan Kesehatan Masyarakat,Papua,2017,perempuan,perkotaan,23.01360663
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,perempuan,perkotaan,29.84023348
+Keluhan Kesehatan Masyarakat,Aceh,2017,perempuan,perdesaan,26.95937541
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,perempuan,perdesaan,24.80316123
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,perempuan,perdesaan,29.02164124
+Keluhan Kesehatan Masyarakat,Riau,2017,perempuan,perdesaan,29.45906295
+Keluhan Kesehatan Masyarakat,Jambi,2017,perempuan,perdesaan,20.0456069
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,perempuan,perdesaan,25.88290428
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,perempuan,perdesaan,25.31648059
+Keluhan Kesehatan Masyarakat,Lampung,2017,perempuan,perdesaan,30.99400993
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,perempuan,perdesaan,25.94154106
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,perempuan,perdesaan,21.86384341
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,perempuan,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,perempuan,perdesaan,31.71272224
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,perempuan,perdesaan,33.81729932
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,perempuan,perdesaan,38.02569852
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,perempuan,perdesaan,32.80460242
+Keluhan Kesehatan Masyarakat,Banten,2017,perempuan,perdesaan,29.12568
+Keluhan Kesehatan Masyarakat,Bali,2017,perempuan,perdesaan,34.39245283
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,perempuan,perdesaan,32.55412679
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,perempuan,perdesaan,36.21255599
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,perempuan,perdesaan,25.88609689
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,perempuan,perdesaan,25.71792641
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,perempuan,perdesaan,32.81131497
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,perempuan,perdesaan,20.2450684
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,perempuan,perdesaan,30.36208857
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,perempuan,perdesaan,29.90787949
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,perempuan,perdesaan,32.18638558
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,perempuan,perdesaan,25.74540575
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,perempuan,perdesaan,24.45420593
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,perempuan,perdesaan,34.45927673
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,perempuan,perdesaan,26.86393886
+Keluhan Kesehatan Masyarakat,Maluku,2017,perempuan,perdesaan,19.57637613
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,perempuan,perdesaan,17.59630863
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,perempuan,perdesaan,22.18748624
+Keluhan Kesehatan Masyarakat,Papua,2017,perempuan,perdesaan,14.10179374
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,perempuan,perdesaan,29.786641
+Keluhan Kesehatan Masyarakat,Aceh,2017,perempuan,gabungan,26.67582112
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2017,perempuan,gabungan,24.61743968
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2017,perempuan,gabungan,30.26790182
+Keluhan Kesehatan Masyarakat,Riau,2017,perempuan,gabungan,28.86026177
+Keluhan Kesehatan Masyarakat,Jambi,2017,perempuan,gabungan,20.83896412
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2017,perempuan,gabungan,27.58606096
+Keluhan Kesehatan Masyarakat,Bengkulu,2017,perempuan,gabungan,26.21045261
+Keluhan Kesehatan Masyarakat,Lampung,2017,perempuan,gabungan,29.64103772
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2017,perempuan,gabungan,29.5207126
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2017,perempuan,gabungan,22.60764501
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2017,perempuan,gabungan,27.43708401
+Keluhan Kesehatan Masyarakat,Jawa Barat,2017,perempuan,gabungan,30.24381704
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2017,perempuan,gabungan,34.1103097
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2017,perempuan,gabungan,34.95420916
+Keluhan Kesehatan Masyarakat,Jawa Timur,2017,perempuan,gabungan,32.75354964
+Keluhan Kesehatan Masyarakat,Banten,2017,perempuan,gabungan,28.76071188
+Keluhan Kesehatan Masyarakat,Bali,2017,perempuan,gabungan,29.89468187
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2017,perempuan,gabungan,32.83763713
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2017,perempuan,gabungan,36.59287219
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2017,perempuan,gabungan,25.39207047
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2017,perempuan,gabungan,26.79181744
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2017,perempuan,gabungan,34.91357118
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2017,perempuan,gabungan,24.76544788
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2017,perempuan,gabungan,29.04970646
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2017,perempuan,gabungan,27.28973786
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2017,perempuan,gabungan,30.98525259
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2017,perempuan,gabungan,25.95874971
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2017,perempuan,gabungan,24.91399465
+Keluhan Kesehatan Masyarakat,Gorontalo,2017,perempuan,gabungan,34.98859663
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2017,perempuan,gabungan,26.64968591
+Keluhan Kesehatan Masyarakat,Maluku,2017,perempuan,gabungan,20.19325506
+Keluhan Kesehatan Masyarakat,Maluku Utara,2017,perempuan,gabungan,16.73739089
+Keluhan Kesehatan Masyarakat,Papua Barat,2017,perempuan,gabungan,22.56637347
+Keluhan Kesehatan Masyarakat,Papua,2017,perempuan,gabungan,16.4586207
+Keluhan Kesehatan Masyarakat,INDONESIA,2017,perempuan,gabungan,29.81505358
+Keluhan Kesehatan Masyarakat,Aceh,2018,laki_laki,perkotaan,24.71158488
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,laki_laki,perkotaan,23.00213833
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,laki_laki,perkotaan,27.53845579
+Keluhan Kesehatan Masyarakat,Riau,2018,laki_laki,perkotaan,27.00179779
+Keluhan Kesehatan Masyarakat,Jambi,2018,laki_laki,perkotaan,21.02545452
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,laki_laki,perkotaan,28.40465396
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,laki_laki,perkotaan,23.8616907
+Keluhan Kesehatan Masyarakat,Lampung,2018,laki_laki,perkotaan,29.0343616
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,laki_laki,perkotaan,26.94828822
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,laki_laki,perkotaan,20.91929356
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,laki_laki,perkotaan,26.91834167
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,laki_laki,perkotaan,28.64825936
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,laki_laki,perkotaan,32.98067195
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,laki_laki,perkotaan,34.19168397
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,laki_laki,perkotaan,31.52586597
+Keluhan Kesehatan Masyarakat,Banten,2018,laki_laki,perkotaan,29.57509788
+Keluhan Kesehatan Masyarakat,Bali,2018,laki_laki,perkotaan,26.25166904
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,laki_laki,perkotaan,38.02477601
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,laki_laki,perkotaan,33.60256669
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,laki_laki,perkotaan,25.26293521
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,laki_laki,perkotaan,26.7117009
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,laki_laki,perkotaan,30.58016441
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,laki_laki,perkotaan,27.00244916
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,laki_laki,perkotaan,26.84194506
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,laki_laki,perkotaan,25.66450918
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,laki_laki,perkotaan,29.7337899
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,laki_laki,perkotaan,28.7939233
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,laki_laki,perkotaan,24.54941929
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,laki_laki,perkotaan,34.03425934
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,laki_laki,perkotaan,31.39483773
+Keluhan Kesehatan Masyarakat,Maluku,2018,laki_laki,perkotaan,18.12769124
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,laki_laki,perkotaan,19.1683167
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,laki_laki,perkotaan,21.66654057
+Keluhan Kesehatan Masyarakat,Papua,2018,laki_laki,perkotaan,19.97747045
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,laki_laki,perkotaan,28.93934909
+Keluhan Kesehatan Masyarakat,Aceh,2018,laki_laki,perdesaan,28.91484792
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,laki_laki,perdesaan,24.24564021
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,laki_laki,perdesaan,26.82762487
+Keluhan Kesehatan Masyarakat,Riau,2018,laki_laki,perdesaan,29.89481508
+Keluhan Kesehatan Masyarakat,Jambi,2018,laki_laki,perdesaan,21.51324151
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,laki_laki,perdesaan,25.87674453
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,laki_laki,perdesaan,26.72756586
+Keluhan Kesehatan Masyarakat,Lampung,2018,laki_laki,perdesaan,29.59878077
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,laki_laki,perdesaan,26.80760916
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,laki_laki,perdesaan,24.49187104
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,laki_laki,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,laki_laki,perdesaan,31.89705198
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,laki_laki,perdesaan,31.71187387
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,laki_laki,perdesaan,33.88027081
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,laki_laki,perdesaan,33.13269163
+Keluhan Kesehatan Masyarakat,Banten,2018,laki_laki,perdesaan,34.0243548
+Keluhan Kesehatan Masyarakat,Bali,2018,laki_laki,perdesaan,34.50610583
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,laki_laki,perdesaan,35.45698647
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,laki_laki,perdesaan,36.79183643
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,laki_laki,perdesaan,28.4269518
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,laki_laki,perdesaan,26.64456588
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,laki_laki,perdesaan,31.95994401
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,laki_laki,perdesaan,24.40132532
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,laki_laki,perdesaan,32.6549159
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,laki_laki,perdesaan,30.20228642
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,laki_laki,perdesaan,29.78228081
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,laki_laki,perdesaan,27.3200957
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,laki_laki,perdesaan,26.57212663
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,laki_laki,perdesaan,37.02626484
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,laki_laki,perdesaan,27.92194701
+Keluhan Kesehatan Masyarakat,Maluku,2018,laki_laki,perdesaan,20.20784922
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,laki_laki,perdesaan,19.03682036
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,laki_laki,perdesaan,22.09638701
+Keluhan Kesehatan Masyarakat,Papua,2018,laki_laki,perdesaan,16.38931408
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,laki_laki,perdesaan,29.8604789
+Keluhan Kesehatan Masyarakat,Aceh,2018,laki_laki,gabungan,27.59014498
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,laki_laki,gabungan,23.58996581
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,laki_laki,gabungan,27.1405555
+Keluhan Kesehatan Masyarakat,Riau,2018,laki_laki,gabungan,28.73155857
+Keluhan Kesehatan Masyarakat,Jambi,2018,laki_laki,gabungan,21.35823437
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,laki_laki,gabungan,26.80762895
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,laki_laki,gabungan,25.80687379
+Keluhan Kesehatan Masyarakat,Lampung,2018,laki_laki,gabungan,29.43464104
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,laki_laki,gabungan,26.88256385
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,laki_laki,gabungan,21.43315266
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,laki_laki,gabungan,26.91834167
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,laki_laki,gabungan,29.48831934
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,laki_laki,gabungan,32.36097928
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,laki_laki,gabungan,34.1092662
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,laki_laki,gabungan,32.28837987
+Keluhan Kesehatan Masyarakat,Banten,2018,laki_laki,gabungan,30.86631852
+Keluhan Kesehatan Masyarakat,Bali,2018,laki_laki,gabungan,29.01163119
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,laki_laki,gabungan,36.64752165
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,laki_laki,gabungan,36.05179241
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,laki_laki,gabungan,27.37507832
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,laki_laki,gabungan,26.67006864
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,laki_laki,gabungan,31.31664634
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,laki_laki,gabungan,26.12714824
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,laki_laki,gabungan,29.30459554
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,laki_laki,gabungan,27.94832452
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,laki_laki,gabungan,29.76896811
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,laki_laki,gabungan,27.93710367
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,laki_laki,gabungan,25.79714813
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,laki_laki,gabungan,35.88780527
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,laki_laki,gabungan,28.72748856
+Keluhan Kesehatan Masyarakat,Maluku,2018,laki_laki,gabungan,19.3445778
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,laki_laki,gabungan,19.07418681
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,laki_laki,gabungan,21.92220238
+Keluhan Kesehatan Masyarakat,Papua,2018,laki_laki,gabungan,17.40215176
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,laki_laki,gabungan,29.35695054
+Keluhan Kesehatan Masyarakat,Aceh,2018,perempuan,perkotaan,29.6106079
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,perempuan,perkotaan,26.25907943
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,perempuan,perkotaan,32.32209175
+Keluhan Kesehatan Masyarakat,Riau,2018,perempuan,perkotaan,29.76740908
+Keluhan Kesehatan Masyarakat,Jambi,2018,perempuan,perkotaan,21.85224871
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,perempuan,perkotaan,34.17389456
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,perempuan,perkotaan,25.59071117
+Keluhan Kesehatan Masyarakat,Lampung,2018,perempuan,perkotaan,30.61082332
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,perempuan,perkotaan,32.33926004
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,perempuan,perkotaan,23.03797949
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,perempuan,perkotaan,30.74651166
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,perempuan,perkotaan,31.87301478
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,perempuan,perkotaan,36.87884404
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,perempuan,perkotaan,36.1691603
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,perempuan,perkotaan,35.11605961
+Keluhan Kesehatan Masyarakat,Banten,2018,perempuan,perkotaan,31.61994724
+Keluhan Kesehatan Masyarakat,Bali,2018,perempuan,perkotaan,28.81808647
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,perempuan,perkotaan,41.12851012
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,perempuan,perkotaan,36.91939608
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,perempuan,perkotaan,28.8636211
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,perempuan,perkotaan,28.74904811
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,perempuan,perkotaan,34.66215697
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,perempuan,perkotaan,31.3386807
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,perempuan,perkotaan,31.17333236
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,perempuan,perkotaan,27.68841344
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,perempuan,perkotaan,34.82959257
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,perempuan,perkotaan,31.88111461
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,perempuan,perkotaan,28.53314151
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,perempuan,perkotaan,36.01396091
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,perempuan,perkotaan,31.37825767
+Keluhan Kesehatan Masyarakat,Maluku,2018,perempuan,perkotaan,20.56827812
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,perempuan,perkotaan,21.56904235
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,perempuan,perkotaan,27.26274418
+Keluhan Kesehatan Masyarakat,Papua,2018,perempuan,perkotaan,21.03707896
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,perempuan,perkotaan,32.3273906
+Keluhan Kesehatan Masyarakat,Aceh,2018,perempuan,perdesaan,34.18280236
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,perempuan,perdesaan,25.98954857
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,perempuan,perdesaan,31.00303285
+Keluhan Kesehatan Masyarakat,Riau,2018,perempuan,perdesaan,31.07443936
+Keluhan Kesehatan Masyarakat,Jambi,2018,perempuan,perdesaan,24.30529808
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,perempuan,perdesaan,28.09418378
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,perempuan,perdesaan,29.77792641
+Keluhan Kesehatan Masyarakat,Lampung,2018,perempuan,perdesaan,32.50663143
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,perempuan,perdesaan,30.73127619
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,perempuan,perdesaan,25.63601367
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,perempuan,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,perempuan,perdesaan,34.74683761
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,perempuan,perdesaan,35.72383386
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,perempuan,perdesaan,37.36342494
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,perempuan,perdesaan,35.44924158
+Keluhan Kesehatan Masyarakat,Banten,2018,perempuan,perdesaan,39.96001182
+Keluhan Kesehatan Masyarakat,Bali,2018,perempuan,perdesaan,37.14729481
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,perempuan,perdesaan,39.92729242
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,perempuan,perdesaan,40.03345767
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,perempuan,perdesaan,30.65444765
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,perempuan,perdesaan,30.49674908
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,perempuan,perdesaan,35.76456174
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,perempuan,perdesaan,26.19728395
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,perempuan,perdesaan,35.85193487
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,perempuan,perdesaan,32.61934367
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,perempuan,perdesaan,32.52722791
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,perempuan,perdesaan,29.7632655
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,perempuan,perdesaan,30.65216782
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,perempuan,perdesaan,39.30168131
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,perempuan,perdesaan,29.85390238
+Keluhan Kesehatan Masyarakat,Maluku,2018,perempuan,perdesaan,20.7179256
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,perempuan,perdesaan,20.5599905
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,perempuan,perdesaan,24.40031658
+Keluhan Kesehatan Masyarakat,Papua,2018,perempuan,perdesaan,16.62021917
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,perempuan,perdesaan,32.89221427
+Keluhan Kesehatan Masyarakat,Aceh,2018,perempuan,gabungan,32.75607906
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2018,perempuan,gabungan,26.13230562
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2018,perempuan,gabungan,31.58490819
+Keluhan Kesehatan Masyarakat,Riau,2018,perempuan,gabungan,30.54495272
+Keluhan Kesehatan Masyarakat,Jambi,2018,perempuan,gabungan,23.51287406
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2018,perempuan,gabungan,30.3834228
+Keluhan Kesehatan Masyarakat,Bengkulu,2018,perempuan,gabungan,28.38519119
+Keluhan Kesehatan Masyarakat,Lampung,2018,perempuan,gabungan,31.93642593
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2018,perempuan,gabungan,31.60193543
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2018,perempuan,gabungan,23.40247524
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2018,perempuan,gabungan,30.74651166
+Keluhan Kesehatan Masyarakat,Jawa Barat,2018,perempuan,gabungan,32.61797871
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2018,perempuan,gabungan,36.31670125
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2018,perempuan,gabungan,36.49807593
+Keluhan Kesehatan Masyarakat,Jawa Timur,2018,perempuan,gabungan,35.27541353
+Keluhan Kesehatan Masyarakat,Banten,2018,perempuan,gabungan,34.01727733
+Keluhan Kesehatan Masyarakat,Bali,2018,perempuan,gabungan,31.65564836
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2018,perempuan,gabungan,40.48700091
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2018,perempuan,gabungan,39.32731471
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2018,perempuan,gabungan,30.04106156
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2018,perempuan,gabungan,29.81231606
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2018,perempuan,gabungan,35.2517552
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2018,perempuan,gabungan,29.66171712
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2018,perempuan,gabungan,33.10581416
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2018,perempuan,gabungan,30.11798308
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2018,perempuan,gabungan,33.18213776
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2018,perempuan,gabungan,30.64172171
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2018,perempuan,gabungan,29.84045658
+Keluhan Kesehatan Masyarakat,Gorontalo,2018,perempuan,gabungan,38.00784276
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2018,perempuan,gabungan,30.22116376
+Keluhan Kesehatan Masyarakat,Maluku,2018,perempuan,gabungan,20.65510093
+Keluhan Kesehatan Masyarakat,Maluku Utara,2018,perempuan,gabungan,20.85076001
+Keluhan Kesehatan Masyarakat,Papua Barat,2018,perempuan,gabungan,25.57113288
+Keluhan Kesehatan Masyarakat,Papua,2018,perempuan,gabungan,17.8151688
+Keluhan Kesehatan Masyarakat,INDONESIA,2018,perempuan,gabungan,32.58310578
+Keluhan Kesehatan Masyarakat,Aceh,2019,laki_laki,perkotaan,26.96970027
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,laki_laki,perkotaan,24.24928169
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,laki_laki,perkotaan,28.73359808
+Keluhan Kesehatan Masyarakat,Riau,2019,laki_laki,perkotaan,25.02889999
+Keluhan Kesehatan Masyarakat,Jambi,2019,laki_laki,perkotaan,19.6598062
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,laki_laki,perkotaan,33.13770125
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,laki_laki,perkotaan,29.99039103
+Keluhan Kesehatan Masyarakat,Lampung,2019,laki_laki,perkotaan,29.73694446
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,laki_laki,perkotaan,33.4258088
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,laki_laki,perkotaan,19.10883503
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,laki_laki,perkotaan,27.42923763
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,laki_laki,perkotaan,30.09744442
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,laki_laki,perkotaan,32.07356813
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,laki_laki,perkotaan,32.35542237
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,laki_laki,perkotaan,33.4043739
+Keluhan Kesehatan Masyarakat,Banten,2019,laki_laki,perkotaan,31.33644438
+Keluhan Kesehatan Masyarakat,Bali,2019,laki_laki,perkotaan,26.4274731
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,laki_laki,perkotaan,40.75967433
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,laki_laki,perkotaan,37.92521861
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,laki_laki,perkotaan,24.50953088
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,laki_laki,perkotaan,27.21260169
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,laki_laki,perkotaan,32.70809587
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,laki_laki,perkotaan,26.4103609
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,laki_laki,perkotaan,26.53362738
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,laki_laki,perkotaan,26.25172114
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,laki_laki,perkotaan,32.76330124
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,laki_laki,perkotaan,29.99484541
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,laki_laki,perkotaan,29.05517552
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,laki_laki,perkotaan,39.50057236
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,laki_laki,perkotaan,25.89751293
+Keluhan Kesehatan Masyarakat,Maluku,2019,laki_laki,perkotaan,19.14304481
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,laki_laki,perkotaan,18.84783784
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,laki_laki,perkotaan,22.2881766
+Keluhan Kesehatan Masyarakat,Papua,2019,laki_laki,perkotaan,16.73503474
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,laki_laki,perkotaan,29.94703954
+Keluhan Kesehatan Masyarakat,Aceh,2019,laki_laki,perdesaan,27.37347703
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,laki_laki,perdesaan,24.85858527
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,laki_laki,perdesaan,27.14932577
+Keluhan Kesehatan Masyarakat,Riau,2019,laki_laki,perdesaan,25.20362203
+Keluhan Kesehatan Masyarakat,Jambi,2019,laki_laki,perdesaan,21.06453215
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,laki_laki,perdesaan,27.94545271
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,laki_laki,perdesaan,27.80529157
+Keluhan Kesehatan Masyarakat,Lampung,2019,laki_laki,perdesaan,35.49196479
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,laki_laki,perdesaan,27.56797409
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,laki_laki,perdesaan,22.42332425
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,laki_laki,perdesaan,-
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,laki_laki,perdesaan,34.32962963
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,laki_laki,perdesaan,37.66287397
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,laki_laki,perdesaan,37.38082564
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,laki_laki,perdesaan,35.28077492
+Keluhan Kesehatan Masyarakat,Banten,2019,laki_laki,perdesaan,35.68859542
+Keluhan Kesehatan Masyarakat,Bali,2019,laki_laki,perdesaan,32.22654954
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,laki_laki,perdesaan,47.09613731
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,laki_laki,perdesaan,38.54513489
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,laki_laki,perdesaan,27.3885329
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,laki_laki,perdesaan,24.9624771
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,laki_laki,perdesaan,33.25254287
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,laki_laki,perdesaan,21.68313848
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,laki_laki,perdesaan,25.97212148
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,laki_laki,perdesaan,29.75056643
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,laki_laki,perdesaan,29.61027207
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,laki_laki,perdesaan,27.36307896
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,laki_laki,perdesaan,25.74716972
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,laki_laki,perdesaan,32.56550045
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,laki_laki,perdesaan,26.16010745
+Keluhan Kesehatan Masyarakat,Maluku,2019,laki_laki,perdesaan,17.26355443
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,laki_laki,perdesaan,15.81895796
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,laki_laki,perdesaan,25.02525099
+Keluhan Kesehatan Masyarakat,Papua,2019,laki_laki,perdesaan,14.16812101
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,laki_laki,perdesaan,31.5975137
+Keluhan Kesehatan Masyarakat,Aceh,2019,laki_laki,gabungan,27.23946624
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,laki_laki,gabungan,24.52359091
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,laki_laki,gabungan,27.90219528
+Keluhan Kesehatan Masyarakat,Riau,2019,laki_laki,gabungan,25.13212182
+Keluhan Kesehatan Masyarakat,Jambi,2019,laki_laki,gabungan,20.60680125
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,laki_laki,gabungan,29.89140048
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,laki_laki,gabungan,28.53448514
+Keluhan Kesehatan Masyarakat,Lampung,2019,laki_laki,gabungan,33.71035229
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,laki_laki,gabungan,30.84500334
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,laki_laki,gabungan,19.45361147
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,laki_laki,gabungan,27.42923763
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,laki_laki,gabungan,31.045337
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,laki_laki,gabungan,34.74553188
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,laki_laki,gabungan,33.66313183
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,laki_laki,gabungan,34.25831556
+Keluhan Kesehatan Masyarakat,Banten,2019,laki_laki,gabungan,32.54713035
+Keluhan Kesehatan Masyarakat,Bali,2019,laki_laki,gabungan,28.16618728
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,laki_laki,gabungan,43.98117964
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,laki_laki,gabungan,38.39520243
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,laki_laki,gabungan,26.36936057
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,laki_laki,gabungan,25.87879966
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,laki_laki,gabungan,32.99243118
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,laki_laki,gabungan,24.88101262
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,laki_laki,gabungan,26.30777725
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,laki_laki,gabungan,27.90731414
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,laki_laki,gabungan,30.56178666
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,laki_laki,gabungan,28.52450307
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,laki_laki,gabungan,27.0597032
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,laki_laki,gabungan,35.51228264
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,laki_laki,gabungan,26.09742671
+Keluhan Kesehatan Masyarakat,Maluku,2019,laki_laki,gabungan,18.09265929
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,laki_laki,gabungan,16.7029438
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,laki_laki,gabungan,23.86641841
+Keluhan Kesehatan Masyarakat,Papua,2019,laki_laki,gabungan,14.91978953
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,laki_laki,gabungan,30.66265051
+Keluhan Kesehatan Masyarakat,Aceh,2019,perempuan,perkotaan,29.70107999
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,perempuan,perkotaan,28.41807368
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,perempuan,perkotaan,33.80652798
+Keluhan Kesehatan Masyarakat,Riau,2019,perempuan,perkotaan,29.80512425
+Keluhan Kesehatan Masyarakat,Jambi,2019,perempuan,perkotaan,22.32034543
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,perempuan,perkotaan,35.32314144
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,perempuan,perkotaan,32.66004201
+Keluhan Kesehatan Masyarakat,Lampung,2019,perempuan,perkotaan,33.83417121
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,perempuan,perkotaan,37.69488059
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,perempuan,perkotaan,23.16322629
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,perempuan,perkotaan,31.14806305
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,perempuan,perkotaan,33.90254122
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,perempuan,perkotaan,36.67264815
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,perempuan,perkotaan,37.30052646
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,perempuan,perkotaan,36.22958375
+Keluhan Kesehatan Masyarakat,Banten,2019,perempuan,perkotaan,34.77188881
+Keluhan Kesehatan Masyarakat,Bali,2019,perempuan,perkotaan,27.34208185
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,perempuan,perkotaan,41.60571055
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,perempuan,perkotaan,41.36251025
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,perempuan,perkotaan,27.98271444
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,perempuan,perkotaan,30.6061097
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,perempuan,perkotaan,36.72166128
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,perempuan,perkotaan,31.8648942
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,perempuan,perkotaan,29.29057659
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,perempuan,perkotaan,27.89133746
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,perempuan,perkotaan,38.71847675
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,perempuan,perkotaan,33.2839745
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,perempuan,perkotaan,31.26442691
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,perempuan,perkotaan,38.91046717
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,perempuan,perkotaan,25.73385274
+Keluhan Kesehatan Masyarakat,Maluku,2019,perempuan,perkotaan,21.59463452
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,perempuan,perkotaan,20.68531528
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,perempuan,perkotaan,25.34222017
+Keluhan Kesehatan Masyarakat,Papua,2019,perempuan,perkotaan,18.69994258
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,perempuan,perkotaan,33.57847589
+Keluhan Kesehatan Masyarakat,Aceh,2019,perempuan,perdesaan,32.22312251
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,perempuan,perdesaan,27.59062902
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,perempuan,perdesaan,29.97793722
+Keluhan Kesehatan Masyarakat,Riau,2019,perempuan,perdesaan,26.49057463
+Keluhan Kesehatan Masyarakat,Jambi,2019,perempuan,perdesaan,22.22409442
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,perempuan,perdesaan,29.9476494
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,perempuan,perdesaan,30.13830719
+Keluhan Kesehatan Masyarakat,Lampung,2019,perempuan,perdesaan,38.41512758
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,perempuan,perdesaan,31.41090275
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,perempuan,perdesaan,25.21463972
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,perempuan,perdesaan,-
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,perempuan,perdesaan,39.16222865
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,perempuan,perdesaan,41.13178938
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,perempuan,perdesaan,38.55200586
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,perempuan,perdesaan,37.61218166
+Keluhan Kesehatan Masyarakat,Banten,2019,perempuan,perdesaan,39.31096176
+Keluhan Kesehatan Masyarakat,Bali,2019,perempuan,perdesaan,32.13086861
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,perempuan,perdesaan,47.65940059
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,perempuan,perdesaan,42.65417784
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,perempuan,perdesaan,29.09368907
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,perempuan,perdesaan,27.14354627
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,perempuan,perdesaan,37.64533013
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,perempuan,perdesaan,25.90973316
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,perempuan,perdesaan,30.01171518
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,perempuan,perdesaan,31.91287542
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,perempuan,perdesaan,32.25123366
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,perempuan,perdesaan,30.41040683
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,perempuan,perdesaan,29.07897539
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,perempuan,perdesaan,38.09337338
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,perempuan,perdesaan,27.95800936
+Keluhan Kesehatan Masyarakat,Maluku,2019,perempuan,perdesaan,19.97041513
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,perempuan,perdesaan,18.80568076
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,perempuan,perdesaan,27.29461948
+Keluhan Kesehatan Masyarakat,Papua,2019,perempuan,perdesaan,14.28980147
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,perempuan,perdesaan,34.70033534
+Keluhan Kesehatan Masyarakat,Aceh,2019,perempuan,gabungan,31.42184106
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2019,perempuan,gabungan,28.03463807
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2019,perempuan,gabungan,31.7538868
+Keluhan Kesehatan Masyarakat,Riau,2019,perempuan,gabungan,27.81048315
+Keluhan Kesehatan Masyarakat,Jambi,2019,perempuan,gabungan,22.25527123
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2019,perempuan,gabungan,31.94763244
+Keluhan Kesehatan Masyarakat,Bengkulu,2019,perempuan,gabungan,30.96462424
+Keluhan Kesehatan Masyarakat,Lampung,2019,perempuan,gabungan,37.00862983
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2019,perempuan,gabungan,34.82666386
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2019,perempuan,gabungan,23.36358853
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2019,perempuan,gabungan,31.14806305
+Keluhan Kesehatan Masyarakat,Jawa Barat,2019,perempuan,gabungan,35.19829697
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2019,perempuan,gabungan,38.88771426
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2019,perempuan,gabungan,37.65071419
+Keluhan Kesehatan Masyarakat,Jawa Timur,2019,perempuan,gabungan,36.88669498
+Keluhan Kesehatan Masyarakat,Banten,2019,perempuan,gabungan,36.10633987
+Keluhan Kesehatan Masyarakat,Bali,2019,perempuan,gabungan,28.89319448
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2019,perempuan,gabungan,44.7811396
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2019,perempuan,gabungan,42.35274588
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2019,perempuan,gabungan,28.70725876
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2019,perempuan,gabungan,28.51512439
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2019,perempuan,gabungan,37.21406133
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2019,perempuan,gabungan,29.91341788
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2019,perempuan,gabungan,29.56247504
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2019,perempuan,gabungan,29.83203782
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2019,perempuan,gabungan,34.16173988
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2019,perempuan,gabungan,31.63629286
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2019,perempuan,gabungan,29.92326597
+Keluhan Kesehatan Masyarakat,Gorontalo,2019,perempuan,gabungan,38.43572391
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2019,perempuan,gabungan,27.43747069
+Keluhan Kesehatan Masyarakat,Maluku,2019,perempuan,gabungan,20.66735993
+Keluhan Kesehatan Masyarakat,Maluku Utara,2019,perempuan,gabungan,19.33633076
+Keluhan Kesehatan Masyarakat,Papua Barat,2019,perempuan,gabungan,26.47805276
+Keluhan Kesehatan Masyarakat,Papua,2019,perempuan,gabungan,15.51652194
+Keluhan Kesehatan Masyarakat,INDONESIA,2019,perempuan,gabungan,34.08206613
+Keluhan Kesehatan Masyarakat,Aceh,2020,laki_laki,perkotaan,24.68190463
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,laki_laki,perkotaan,23.2080878
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,laki_laki,perkotaan,30.45840119
+Keluhan Kesehatan Masyarakat,Riau,2020,laki_laki,perkotaan,25.30013699
+Keluhan Kesehatan Masyarakat,Jambi,2020,laki_laki,perkotaan,19.74831869
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,laki_laki,perkotaan,29.01130855
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,laki_laki,perkotaan,28.764948
+Keluhan Kesehatan Masyarakat,Lampung,2020,laki_laki,perkotaan,28.82190197
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,laki_laki,perkotaan,31.13174167
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,laki_laki,perkotaan,16.36952604
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,laki_laki,perkotaan,31.84965332
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,laki_laki,perkotaan,30.03741342
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,laki_laki,perkotaan,33.93612098
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,laki_laki,perkotaan,35.6023599
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,laki_laki,perkotaan,31.13505364
+Keluhan Kesehatan Masyarakat,Banten,2020,laki_laki,perkotaan,28.37395539
+Keluhan Kesehatan Masyarakat,Bali,2020,laki_laki,perkotaan,23.17982199
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,laki_laki,perkotaan,41.21054801
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,laki_laki,perkotaan,33.18779869
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,laki_laki,perkotaan,20.76232124
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,laki_laki,perkotaan,26.29316741
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,laki_laki,perkotaan,31.90200495
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,laki_laki,perkotaan,22.30544394
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,laki_laki,perkotaan,26.01975033
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,laki_laki,perkotaan,22.44356507
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,laki_laki,perkotaan,25.19177021
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,laki_laki,perkotaan,28.02666863
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,laki_laki,perkotaan,28.58365773
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,laki_laki,perkotaan,30.08331976
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,laki_laki,perkotaan,24.8176684
+Keluhan Kesehatan Masyarakat,Maluku,2020,laki_laki,perkotaan,15.84243246
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,laki_laki,perkotaan,15.40529053
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,laki_laki,perkotaan,17.73840575
+Keluhan Kesehatan Masyarakat,Papua,2020,laki_laki,perkotaan,16.78582513
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,laki_laki,perkotaan,29.36063805
+Keluhan Kesehatan Masyarakat,Aceh,2020,laki_laki,perdesaan,24.91247939
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,laki_laki,perdesaan,26.40458954
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,laki_laki,perdesaan,27.01672897
+Keluhan Kesehatan Masyarakat,Riau,2020,laki_laki,perdesaan,22.4169056
+Keluhan Kesehatan Masyarakat,Jambi,2020,laki_laki,perdesaan,20.77755605
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,laki_laki,perdesaan,27.28120678
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,laki_laki,perdesaan,28.94124561
+Keluhan Kesehatan Masyarakat,Lampung,2020,laki_laki,perdesaan,30.06956114
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,laki_laki,perdesaan,26.27260223
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,laki_laki,perdesaan,18.85342733
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,laki_laki,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,laki_laki,perdesaan,31.95749488
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,laki_laki,perdesaan,33.73830957
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,laki_laki,perdesaan,36.45553439
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,laki_laki,perdesaan,31.48377191
+Keluhan Kesehatan Masyarakat,Banten,2020,laki_laki,perdesaan,34.5646122
+Keluhan Kesehatan Masyarakat,Bali,2020,laki_laki,perdesaan,29.06775206
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,laki_laki,perdesaan,42.69181576
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,laki_laki,perdesaan,32.94668243
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,laki_laki,perdesaan,26.23438932
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,laki_laki,perdesaan,23.79979753
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,laki_laki,perdesaan,33.77030432
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,laki_laki,perdesaan,19.88756041
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,laki_laki,perdesaan,20.64139473
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,laki_laki,perdesaan,25.07839167
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,laki_laki,perdesaan,24.81652807
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,laki_laki,perdesaan,26.43808203
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,laki_laki,perdesaan,27.58078262
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,laki_laki,perdesaan,29.52280044
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,laki_laki,perdesaan,24.6881324
+Keluhan Kesehatan Masyarakat,Maluku,2020,laki_laki,perdesaan,17.47386287
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,laki_laki,perdesaan,14.4785111
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,laki_laki,perdesaan,22.22924227
+Keluhan Kesehatan Masyarakat,Papua,2020,laki_laki,perdesaan,15.85495901
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,laki_laki,perdesaan,29.20233064
+Keluhan Kesehatan Masyarakat,Aceh,2020,laki_laki,gabungan,24.83583386
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,laki_laki,gabungan,24.64449914
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,laki_laki,gabungan,28.65286883
+Keluhan Kesehatan Masyarakat,Riau,2020,laki_laki,gabungan,23.59607729
+Keluhan Kesehatan Masyarakat,Jambi,2020,laki_laki,gabungan,20.44279627
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,laki_laki,gabungan,27.92963413
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,laki_laki,gabungan,28.88220234
+Keluhan Kesehatan Masyarakat,Lampung,2020,laki_laki,gabungan,29.68219755
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,laki_laki,gabungan,28.99371798
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,laki_laki,gabungan,16.60730511
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,laki_laki,gabungan,31.84965332
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,laki_laki,gabungan,30.46345008
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,laki_laki,gabungan,33.84166363
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,laki_laki,gabungan,35.82382537
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,laki_laki,gabungan,31.2936265
+Keluhan Kesehatan Masyarakat,Banten,2020,laki_laki,gabungan,30.07800317
+Keluhan Kesehatan Masyarakat,Bali,2020,laki_laki,gabungan,24.94143888
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,laki_laki,gabungan,41.96277739
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,laki_laki,gabungan,33.00526151
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,laki_laki,gabungan,24.29702318
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,laki_laki,gabungan,24.81557236
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,laki_laki,gabungan,32.87786953
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,laki_laki,gabungan,21.52292678
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,laki_laki,gabungan,23.92633466
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,laki_laki,gabungan,23.69096435
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,laki_laki,gabungan,24.9301734
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,laki_laki,gabungan,27.13965256
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,laki_laki,gabungan,27.98154879
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,laki_laki,gabungan,29.7611968
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,laki_laki,gabungan,24.71912753
+Keluhan Kesehatan Masyarakat,Maluku,2020,laki_laki,gabungan,16.74848713
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,laki_laki,gabungan,14.74884872
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,laki_laki,gabungan,20.32389916
+Keluhan Kesehatan Masyarakat,Papua,2020,laki_laki,gabungan,16.12744827
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,laki_laki,gabungan,29.2921362
+Keluhan Kesehatan Masyarakat,Aceh,2020,perempuan,perkotaan,28.95379956
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,perempuan,perkotaan,26.54199157
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,perempuan,perkotaan,36.31743116
+Keluhan Kesehatan Masyarakat,Riau,2020,perempuan,perkotaan,28.32294633
+Keluhan Kesehatan Masyarakat,Jambi,2020,perempuan,perkotaan,21.87732206
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,perempuan,perkotaan,33.53643191
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,perempuan,perkotaan,32.21880538
+Keluhan Kesehatan Masyarakat,Lampung,2020,perempuan,perkotaan,31.23523041
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,perempuan,perkotaan,35.90897362
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,perempuan,perkotaan,19.81056364
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,perempuan,perkotaan,35.74864535
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,perempuan,perkotaan,33.24584512
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,perempuan,perkotaan,37.1420775
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,perempuan,perkotaan,39.5405841
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,perempuan,perkotaan,34.21896967
+Keluhan Kesehatan Masyarakat,Banten,2020,perempuan,perkotaan,32.86114206
+Keluhan Kesehatan Masyarakat,Bali,2020,perempuan,perkotaan,24.08841525
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,perempuan,perkotaan,45.14279439
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,perempuan,perkotaan,33.62280685
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,perempuan,perkotaan,23.27646594
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,perempuan,perkotaan,30.62525404
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,perempuan,perkotaan,36.71228139
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,perempuan,perkotaan,25.30642175
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,perempuan,perkotaan,29.25436227
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,perempuan,perkotaan,25.1347487
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,perempuan,perkotaan,28.90879498
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,perempuan,perkotaan,31.77829651
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,perempuan,perkotaan,30.77101337
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,perempuan,perkotaan,32.80216552
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,perempuan,perkotaan,29.70150095
+Keluhan Kesehatan Masyarakat,Maluku,2020,perempuan,perkotaan,20.28896405
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,perempuan,perkotaan,18.3269116
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,perempuan,perkotaan,21.27543402
+Keluhan Kesehatan Masyarakat,Papua,2020,perempuan,perkotaan,17.50900505
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,perempuan,perkotaan,32.79496054
+Keluhan Kesehatan Masyarakat,Aceh,2020,perempuan,perdesaan,29.60864177
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,perempuan,perdesaan,28.80645957
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,perempuan,perdesaan,31.08485371
+Keluhan Kesehatan Masyarakat,Riau,2020,perempuan,perdesaan,24.10785828
+Keluhan Kesehatan Masyarakat,Jambi,2020,perempuan,perdesaan,23.34689109
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,perempuan,perdesaan,29.09587181
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,perempuan,perdesaan,31.36251515
+Keluhan Kesehatan Masyarakat,Lampung,2020,perempuan,perdesaan,33.92612673
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,perempuan,perdesaan,31.04988785
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,perempuan,perdesaan,20.41356551
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,perempuan,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,perempuan,perdesaan,34.93608221
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,perempuan,perdesaan,37.64495058
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,perempuan,perdesaan,42.15318261
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,perempuan,perdesaan,34.34400464
+Keluhan Kesehatan Masyarakat,Banten,2020,perempuan,perdesaan,38.31873577
+Keluhan Kesehatan Masyarakat,Bali,2020,perempuan,perdesaan,30.13105302
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,perempuan,perdesaan,46.64672328
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,perempuan,perdesaan,36.52572437
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,perempuan,perdesaan,29.64640885
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,perempuan,perdesaan,26.63103574
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,perempuan,perdesaan,37.14257997
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,perempuan,perdesaan,20.99337053
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,perempuan,perdesaan,27.15416012
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,perempuan,perdesaan,27.60803055
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,perempuan,perdesaan,26.84134463
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,perempuan,perdesaan,29.71412686
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,perempuan,perdesaan,30.33823239
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,perempuan,perdesaan,35.95608868
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,perempuan,perdesaan,27.31987419
+Keluhan Kesehatan Masyarakat,Maluku,2020,perempuan,perdesaan,20.49472638
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,perempuan,perdesaan,16.81991243
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,perempuan,perdesaan,23.64543474
+Keluhan Kesehatan Masyarakat,Papua,2020,perempuan,perdesaan,16.01841474
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,perempuan,perdesaan,32.46106964
+Keluhan Kesehatan Masyarakat,Aceh,2020,perempuan,gabungan,29.40069428
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2020,perempuan,gabungan,27.59233036
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2020,perempuan,gabungan,33.51507334
+Keluhan Kesehatan Masyarakat,Riau,2020,perempuan,gabungan,25.78410265
+Keluhan Kesehatan Masyarakat,Jambi,2020,perempuan,gabungan,22.87196864
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2020,perempuan,gabungan,30.74755045
+Keluhan Kesehatan Masyarakat,Bengkulu,2020,perempuan,gabungan,31.64341039
+Keluhan Kesehatan Masyarakat,Lampung,2020,perempuan,gabungan,33.09781732
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2020,perempuan,gabungan,33.68838262
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2020,perempuan,gabungan,19.87276491
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2020,perempuan,gabungan,35.74864535
+Keluhan Kesehatan Masyarakat,Jawa Barat,2020,perempuan,gabungan,33.66087544
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2020,perempuan,gabungan,37.39177214
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2020,perempuan,gabungan,40.27204119
+Keluhan Kesehatan Masyarakat,Jawa Timur,2020,perempuan,gabungan,34.2783587
+Keluhan Kesehatan Masyarakat,Banten,2020,perempuan,gabungan,34.44959833
+Keluhan Kesehatan Masyarakat,Bali,2020,perempuan,gabungan,26.03342173
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2020,perempuan,gabungan,45.93100657
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2020,perempuan,gabungan,35.85015166
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2020,perempuan,gabungan,27.42849296
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2020,perempuan,gabungan,28.21924349
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2020,perempuan,gabungan,36.94137711
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2020,perempuan,gabungan,23.88992078
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2020,perempuan,gabungan,28.41383978
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2020,perempuan,gabungan,26.32843231
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2020,perempuan,gabungan,27.4499714
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2020,perempuan,gabungan,30.59686465
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2020,perempuan,gabungan,30.50517726
+Keluhan Kesehatan Masyarakat,Gorontalo,2020,perempuan,gabungan,34.63443702
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2020,perempuan,gabungan,27.87441349
+Keluhan Kesehatan Masyarakat,Maluku,2020,perempuan,gabungan,20.4055567
+Keluhan Kesehatan Masyarakat,Maluku Utara,2020,perempuan,gabungan,17.24666063
+Keluhan Kesehatan Masyarakat,Papua Barat,2020,perempuan,gabungan,22.65045524
+Keluhan Kesehatan Masyarakat,Papua,2020,perempuan,gabungan,16.43229995
+Keluhan Kesehatan Masyarakat,INDONESIA,2020,perempuan,gabungan,32.64520787
+Keluhan Kesehatan Masyarakat,Aceh,2021,laki_laki,perkotaan,24.29039315
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,laki_laki,perkotaan,18.08321138
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,laki_laki,perkotaan,25.04289727
+Keluhan Kesehatan Masyarakat,Riau,2021,laki_laki,perkotaan,31.56898727
+Keluhan Kesehatan Masyarakat,Jambi,2021,laki_laki,perkotaan,12.43584277
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,laki_laki,perkotaan,33.58816394
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,laki_laki,perkotaan,36.05465571
+Keluhan Kesehatan Masyarakat,Lampung,2021,laki_laki,perkotaan,36.4784206
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,laki_laki,perkotaan,29.4620667
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,laki_laki,perkotaan,13.95481925
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,laki_laki,perkotaan,25.34554282
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,laki_laki,perkotaan,30.46890946
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,laki_laki,perkotaan,32.05680421
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,laki_laki,perkotaan,31.64084587
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,laki_laki,perkotaan,30.90561819
+Keluhan Kesehatan Masyarakat,Banten,2021,laki_laki,perkotaan,30.37436436
+Keluhan Kesehatan Masyarakat,Bali,2021,laki_laki,perkotaan,24.18484161
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,laki_laki,perkotaan,38.06249188
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,laki_laki,perkotaan,25.304842
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,laki_laki,perkotaan,18.30740128
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,laki_laki,perkotaan,26.60667594
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,laki_laki,perkotaan,31.21252323
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,laki_laki,perkotaan,24.04358741
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,laki_laki,perkotaan,28.70883296
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,laki_laki,perkotaan,25.4490028
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,laki_laki,perkotaan,32.06068848
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,laki_laki,perkotaan,34.82305293
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,laki_laki,perkotaan,31.27336774
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,laki_laki,perkotaan,33.66532518
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,laki_laki,perkotaan,31.49199658
+Keluhan Kesehatan Masyarakat,Maluku,2021,laki_laki,perkotaan,15.07571041
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,laki_laki,perkotaan,12.87122705
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,laki_laki,perkotaan,25.97949512
+Keluhan Kesehatan Masyarakat,Papua,2021,laki_laki,perkotaan,12.34055821
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,laki_laki,perkotaan,28.90902506
+Keluhan Kesehatan Masyarakat,Aceh,2021,laki_laki,perdesaan,21.80790746
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,laki_laki,perdesaan,20.14951128
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,laki_laki,perdesaan,20.3884546
+Keluhan Kesehatan Masyarakat,Riau,2021,laki_laki,perdesaan,15.79655793
+Keluhan Kesehatan Masyarakat,Jambi,2021,laki_laki,perdesaan,17.35296061
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,laki_laki,perdesaan,22.68144569
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,laki_laki,perdesaan,20.7747562
+Keluhan Kesehatan Masyarakat,Lampung,2021,laki_laki,perdesaan,23.1063508
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,laki_laki,perdesaan,20.65761138
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,laki_laki,perdesaan,11.86343387
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,laki_laki,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,laki_laki,perdesaan,24.06933309
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,laki_laki,perdesaan,25.16330815
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,laki_laki,perdesaan,23.16328686
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,laki_laki,perdesaan,22.89264131
+Keluhan Kesehatan Masyarakat,Banten,2021,laki_laki,perdesaan,20.64419445
+Keluhan Kesehatan Masyarakat,Bali,2021,laki_laki,perdesaan,20.83983938
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,laki_laki,perdesaan,41.6995059
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,laki_laki,perdesaan,29.13217767
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,laki_laki,perdesaan,20.73830229
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,laki_laki,perdesaan,19.1926313
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,laki_laki,perdesaan,29.50256179
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,laki_laki,perdesaan,13.73312942
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,laki_laki,perdesaan,18.20704554
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,laki_laki,perdesaan,16.25518533
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,laki_laki,perdesaan,21.40714739
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,laki_laki,perdesaan,19.42002568
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,laki_laki,perdesaan,20.61315373
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,laki_laki,perdesaan,25.23174548
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,laki_laki,perdesaan,22.54029111
+Keluhan Kesehatan Masyarakat,Maluku,2021,laki_laki,perdesaan,14.47006656
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,laki_laki,perdesaan,15.35215177
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,laki_laki,perdesaan,15.58522808
+Keluhan Kesehatan Masyarakat,Papua,2021,laki_laki,perdesaan,12.32773557
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,laki_laki,perdesaan,22.42804085
+Keluhan Kesehatan Masyarakat,Aceh,2021,laki_laki,gabungan,22.65366494
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,laki_laki,gabungan,18.99337471
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,laki_laki,gabungan,22.70002608
+Keluhan Kesehatan Masyarakat,Riau,2021,laki_laki,gabungan,22.19202031
+Keluhan Kesehatan Masyarakat,Jambi,2021,laki_laki,gabungan,15.73344808
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,laki_laki,gabungan,26.77708044
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,laki_laki,gabungan,25.86109511
+Keluhan Kesehatan Masyarakat,Lampung,2021,laki_laki,gabungan,27.38154948
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,laki_laki,gabungan,25.68897941
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,laki_laki,gabungan,13.80145645
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,laki_laki,gabungan,25.34554282
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,laki_laki,gabungan,29.13155534
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,laki_laki,gabungan,28.79193428
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,laki_laki,gabungan,29.50816964
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,laki_laki,gabungan,27.35441687
+Keluhan Kesehatan Masyarakat,Banten,2021,laki_laki,gabungan,27.66111578
+Keluhan Kesehatan Masyarakat,Bali,2021,laki_laki,gabungan,23.2321979
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,laki_laki,gabungan,39.86599206
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,laki_laki,gabungan,28.16152297
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,laki_laki,gabungan,19.85566424
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,laki_laki,gabungan,22.28622954
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,laki_laki,gabungan,30.33949097
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,laki_laki,gabungan,20.81904119
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,laki_laki,gabungan,24.76209293
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,laki_laki,gabungan,21.24362835
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,laki_laki,gabungan,24.73108985
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,laki_laki,gabungan,26.43522772
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,laki_laki,gabungan,24.50633055
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,laki_laki,gabungan,28.93139871
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,laki_laki,gabungan,24.38064253
+Keluhan Kesehatan Masyarakat,Maluku,2021,laki_laki,gabungan,14.73876395
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,laki_laki,gabungan,14.63426312
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,laki_laki,gabungan,20.0793086
+Keluhan Kesehatan Masyarakat,Papua,2021,laki_laki,gabungan,12.33147069
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,laki_laki,gabungan,26.1542296
+Keluhan Kesehatan Masyarakat,Aceh,2021,perempuan,perkotaan,29.77931793
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,perempuan,perkotaan,20.87308095
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,perempuan,perkotaan,28.92031274
+Keluhan Kesehatan Masyarakat,Riau,2021,perempuan,perkotaan,31.38012866
+Keluhan Kesehatan Masyarakat,Jambi,2021,perempuan,perkotaan,14.45952137
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,perempuan,perkotaan,36.52748863
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,perempuan,perkotaan,35.87085901
+Keluhan Kesehatan Masyarakat,Lampung,2021,perempuan,perkotaan,37.37368229
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,perempuan,perkotaan,29.69065852
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,perempuan,perkotaan,15.6599197
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,perempuan,perkotaan,26.61148381
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,perempuan,perkotaan,31.31859924
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,perempuan,perkotaan,33.56204262
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,perempuan,perkotaan,32.25842515
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,perempuan,perkotaan,33.14889215
+Keluhan Kesehatan Masyarakat,Banten,2021,perempuan,perkotaan,31.26839177
+Keluhan Kesehatan Masyarakat,Bali,2021,perempuan,perkotaan,25.39531129
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,perempuan,perkotaan,42.00352476
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,perempuan,perkotaan,29.19040461
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,perempuan,perkotaan,22.13132388
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,perempuan,perkotaan,27.31989398
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,perempuan,perkotaan,35.12338409
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,perempuan,perkotaan,24.95537098
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,perempuan,perkotaan,29.33324793
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,perempuan,perkotaan,26.96719784
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,perempuan,perkotaan,33.10685984
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,perempuan,perkotaan,36.84640461
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,perempuan,perkotaan,32.9682335
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,perempuan,perkotaan,38.39420658
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,perempuan,perkotaan,34.20625906
+Keluhan Kesehatan Masyarakat,Maluku,2021,perempuan,perkotaan,19.25215583
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,perempuan,perkotaan,15.14647744
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,perempuan,perkotaan,27.00100995
+Keluhan Kesehatan Masyarakat,Papua,2021,perempuan,perkotaan,14.19971264
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,perempuan,perkotaan,30.57853374
+Keluhan Kesehatan Masyarakat,Aceh,2021,perempuan,perdesaan,26.62350503
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,perempuan,perdesaan,23.18231691
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,perempuan,perdesaan,23.85003053
+Keluhan Kesehatan Masyarakat,Riau,2021,perempuan,perdesaan,18.19332922
+Keluhan Kesehatan Masyarakat,Jambi,2021,perempuan,perdesaan,19.66122716
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,perempuan,perdesaan,24.61304752
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,perempuan,perdesaan,23.30640331
+Keluhan Kesehatan Masyarakat,Lampung,2021,perempuan,perdesaan,25.87258337
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,perempuan,perdesaan,22.8458163
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,perempuan,perdesaan,15.63353686
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,perempuan,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,perempuan,perdesaan,27.16450385
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,perempuan,perdesaan,27.95580794
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,perempuan,perdesaan,27.07877928
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,perempuan,perdesaan,25.73173594
+Keluhan Kesehatan Masyarakat,Banten,2021,perempuan,perdesaan,24.08444301
+Keluhan Kesehatan Masyarakat,Bali,2021,perempuan,perdesaan,20.8761916
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,perempuan,perdesaan,46.64073739
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,perempuan,perdesaan,33.0124218
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,perempuan,perdesaan,23.2151534
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,perempuan,perdesaan,19.79847471
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,perempuan,perdesaan,32.44573606
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,perempuan,perdesaan,15.07379675
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,perempuan,perdesaan,19.83563823
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,perempuan,perdesaan,18.31091041
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,perempuan,perdesaan,23.8819382
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,perempuan,perdesaan,23.762856
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,perempuan,perdesaan,23.90785238
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,perempuan,perdesaan,29.14987909
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,perempuan,perdesaan,25.63392231
+Keluhan Kesehatan Masyarakat,Maluku,2021,perempuan,perdesaan,17.27738271
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,perempuan,perdesaan,17.35019505
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,perempuan,perdesaan,17.33703874
+Keluhan Kesehatan Masyarakat,Papua,2021,perempuan,perdesaan,12.79822593
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,perempuan,perdesaan,25.42750014
+Keluhan Kesehatan Masyarakat,Aceh,2021,perempuan,gabungan,27.65991245
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2021,perempuan,gabungan,21.91533964
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2021,perempuan,gabungan,26.31185061
+Keluhan Kesehatan Masyarakat,Riau,2021,perempuan,gabungan,23.40213554
+Keluhan Kesehatan Masyarakat,Jambi,2021,perempuan,gabungan,17.96239576
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2021,perempuan,gabungan,29.07828233
+Keluhan Kesehatan Masyarakat,Bengkulu,2021,perempuan,gabungan,27.43742205
+Keluhan Kesehatan Masyarakat,Lampung,2021,perempuan,gabungan,29.53509753
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2021,perempuan,gabungan,26.65253328
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2021,perempuan,gabungan,15.65791607
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2021,perempuan,gabungan,26.61148381
+Keluhan Kesehatan Masyarakat,Jawa Barat,2021,perempuan,gabungan,30.36718669
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2021,perempuan,gabungan,30.80342195
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2021,perempuan,gabungan,30.88225422
+Keluhan Kesehatan Masyarakat,Jawa Timur,2021,perempuan,gabungan,29.7227784
+Keluhan Kesehatan Masyarakat,Banten,2021,perempuan,gabungan,29.18941458
+Keluhan Kesehatan Masyarakat,Bali,2021,perempuan,gabungan,24.02137158
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2021,perempuan,gabungan,44.36420266
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2021,perempuan,gabungan,32.08557902
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2021,perempuan,gabungan,22.82645857
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2021,perempuan,gabungan,22.87765002
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2021,perempuan,gabungan,33.72582121
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2021,perempuan,gabungan,21.84800052
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2021,perempuan,gabungan,25.64676237
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2021,perempuan,gabungan,22.96741738
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2021,perempuan,gabungan,26.72872354
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2021,perempuan,gabungan,29.55603875
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2021,perempuan,gabungan,27.09226576
+Keluhan Kesehatan Masyarakat,Gorontalo,2021,perempuan,gabungan,33.18655947
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2021,perempuan,gabungan,27.36230513
+Keluhan Kesehatan Masyarakat,Maluku,2021,perempuan,gabungan,18.13800422
+Keluhan Kesehatan Masyarakat,Maluku Utara,2021,perempuan,gabungan,16.72920995
+Keluhan Kesehatan Masyarakat,Papua Barat,2021,perempuan,gabungan,21.45935724
+Keluhan Kesehatan Masyarakat,Papua,2021,perempuan,gabungan,13.19500987
+Keluhan Kesehatan Masyarakat,INDONESIA,2021,perempuan,gabungan,28.31972524
+Keluhan Kesehatan Masyarakat,Aceh,2022,laki_laki,perkotaan,23.90131204
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,laki_laki,perkotaan,26.24351062
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,laki_laki,perkotaan,15.20090023
+Keluhan Kesehatan Masyarakat,Riau,2022,laki_laki,perkotaan,22.00178535
+Keluhan Kesehatan Masyarakat,Jambi,2022,laki_laki,perkotaan,15.65865339
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,laki_laki,perkotaan,29.99958587
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,laki_laki,perkotaan,35.24903424
+Keluhan Kesehatan Masyarakat,Lampung,2022,laki_laki,perkotaan,22.28863784
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,laki_laki,perkotaan,32.9513836
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,laki_laki,perkotaan,16.38687315
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,laki_laki,perkotaan,14.66218723
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,laki_laki,perkotaan,27.2765193
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,laki_laki,perkotaan,30.67385014
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,laki_laki,perkotaan,31.17351671
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,laki_laki,perkotaan,27.31348006
+Keluhan Kesehatan Masyarakat,Banten,2022,laki_laki,perkotaan,18.65600562
+Keluhan Kesehatan Masyarakat,Bali,2022,laki_laki,perkotaan,17.14825906
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,laki_laki,perkotaan,38.47073685
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,laki_laki,perkotaan,35.960595
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,laki_laki,perkotaan,15.51747477
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,laki_laki,perkotaan,20.59719026
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,laki_laki,perkotaan,23.47767413
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,laki_laki,perkotaan,22.07536823
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,laki_laki,perkotaan,33.36568397
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,laki_laki,perkotaan,19.17846764
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,laki_laki,perkotaan,23.02379722
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,laki_laki,perkotaan,25.29236244
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,laki_laki,perkotaan,25.59644003
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,laki_laki,perkotaan,34.36244038
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,laki_laki,perkotaan,31.71588107
+Keluhan Kesehatan Masyarakat,Maluku,2022,laki_laki,perkotaan,12.61733808
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,laki_laki,perkotaan,11.27732879
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,laki_laki,perkotaan,16.80311782
+Keluhan Kesehatan Masyarakat,Papua,2022,laki_laki,perkotaan,13.27224694
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,laki_laki,perkotaan,25.15235854
+Keluhan Kesehatan Masyarakat,Aceh,2022,laki_laki,perdesaan,31.03012239
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,laki_laki,perdesaan,28.95554361
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,laki_laki,perdesaan,36.01769971
+Keluhan Kesehatan Masyarakat,Riau,2022,laki_laki,perdesaan,28.68490922
+Keluhan Kesehatan Masyarakat,Jambi,2022,laki_laki,perdesaan,29.2517736
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,laki_laki,perdesaan,31.10098308
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,laki_laki,perdesaan,21.77010986
+Keluhan Kesehatan Masyarakat,Lampung,2022,laki_laki,perdesaan,34.66135828
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,laki_laki,perdesaan,33.52307624
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,laki_laki,perdesaan,24.77820792
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,laki_laki,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,laki_laki,perdesaan,36.843081
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,laki_laki,perdesaan,34.07764707
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,laki_laki,perdesaan,38.33923175
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,laki_laki,perdesaan,33.86534312
+Keluhan Kesehatan Masyarakat,Banten,2022,laki_laki,perdesaan,30.84629756
+Keluhan Kesehatan Masyarakat,Bali,2022,laki_laki,perdesaan,24.18191943
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,laki_laki,perdesaan,45.54530736
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,laki_laki,perdesaan,25.63163473
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,laki_laki,perdesaan,28.98767734
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,laki_laki,perdesaan,24.67569368
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,laki_laki,perdesaan,33.81622732
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,laki_laki,perdesaan,30.18968122
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,laki_laki,perdesaan,36.84536155
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,laki_laki,perdesaan,26.7701748
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,laki_laki,perdesaan,21.30667801
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,laki_laki,perdesaan,36.48700268
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,laki_laki,perdesaan,31.27678425
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,laki_laki,perdesaan,33.44054563
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,laki_laki,perdesaan,27.44804852
+Keluhan Kesehatan Masyarakat,Maluku,2022,laki_laki,perdesaan,14.28715953
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,laki_laki,perdesaan,16.45226641
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,laki_laki,perdesaan,19.9974913
+Keluhan Kesehatan Masyarakat,Papua,2022,laki_laki,perdesaan,9.452849808
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,laki_laki,perdesaan,31.67200978
+Keluhan Kesehatan Masyarakat,Aceh,2022,laki_laki,gabungan,28.59877259
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,laki_laki,gabungan,27.42112942
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,laki_laki,gabungan,25.91665496
+Keluhan Kesehatan Masyarakat,Riau,2022,laki_laki,gabungan,26.04864783
+Keluhan Kesehatan Masyarakat,Jambi,2022,laki_laki,gabungan,24.80729953
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,laki_laki,gabungan,30.69657208
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,laki_laki,gabungan,26.14795004
+Keluhan Kesehatan Masyarakat,Lampung,2022,laki_laki,gabungan,30.64960724
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,laki_laki,gabungan,33.20113922
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,laki_laki,gabungan,17.44453288
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,laki_laki,gabungan,14.66218723
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,laki_laki,gabungan,29.31835066
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,laki_laki,gabungan,32.30649364
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,laki_laki,gabungan,32.97872404
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,laki_laki,gabungan,30.22966696
+Keluhan Kesehatan Masyarakat,Banten,2022,laki_laki,gabungan,21.73186657
+Keluhan Kesehatan Masyarakat,Bali,2022,laki_laki,gabungan,19.14164155
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,laki_laki,gabungan,41.98414086
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,laki_laki,gabungan,28.35477139
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,laki_laki,gabungan,24.14641293
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,laki_laki,gabungan,22.99997248
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,laki_laki,gabungan,28.75857987
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,laki_laki,gabungan,24.66784332
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,laki_laki,gabungan,34.65585098
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,laki_laki,gabungan,22.72689315
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,laki_laki,gabungan,21.83776133
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,laki_laki,gabungan,31.37578268
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,laki_laki,gabungan,29.22806623
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,laki_laki,gabungan,33.83585419
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,laki_laki,gabungan,28.29095072
+Keluhan Kesehatan Masyarakat,Maluku,2022,laki_laki,gabungan,13.5617678
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,laki_laki,gabungan,14.9818313
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,laki_laki,gabungan,18.6747656
+Keluhan Kesehatan Masyarakat,Papua,2022,laki_laki,gabungan,10.52255688
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,laki_laki,gabungan,27.92379529
+Keluhan Kesehatan Masyarakat,Aceh,2022,perempuan,perkotaan,30.41517758
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,perempuan,perkotaan,30.59590179
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,perempuan,perkotaan,19.38393799
+Keluhan Kesehatan Masyarakat,Riau,2022,perempuan,perkotaan,24.5959885
+Keluhan Kesehatan Masyarakat,Jambi,2022,perempuan,perkotaan,17.62766875
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,perempuan,perkotaan,34.58195945
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,perempuan,perkotaan,37.53816423
+Keluhan Kesehatan Masyarakat,Lampung,2022,perempuan,perkotaan,27.18663738
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,perempuan,perkotaan,37.65097188
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,perempuan,perkotaan,18.06367098
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,perempuan,perkotaan,17.54843094
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,perempuan,perkotaan,31.1948157
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,perempuan,perkotaan,36.49791633
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,perempuan,perkotaan,36.2481767
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,perempuan,perkotaan,30.91560842
+Keluhan Kesehatan Masyarakat,Banten,2022,perempuan,perkotaan,22.23787312
+Keluhan Kesehatan Masyarakat,Bali,2022,perempuan,perkotaan,18.81954148
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,perempuan,perkotaan,41.70725976
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,perempuan,perkotaan,42.57366783
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,perempuan,perkotaan,17.26201137
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,perempuan,perkotaan,23.94550879
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,perempuan,perkotaan,29.63778735
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,perempuan,perkotaan,26.04963783
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,perempuan,perkotaan,35.50328126
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,perempuan,perkotaan,20.87200745
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,perempuan,perkotaan,23.07048499
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,perempuan,perkotaan,28.95967215
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,perempuan,perkotaan,30.08110401
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,perempuan,perkotaan,39.49405008
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,perempuan,perkotaan,37.35279991
+Keluhan Kesehatan Masyarakat,Maluku,2022,perempuan,perkotaan,17.41341394
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,perempuan,perkotaan,15.81641462
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,perempuan,perkotaan,21.00010503
+Keluhan Kesehatan Masyarakat,Papua,2022,perempuan,perkotaan,14.57594269
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,perempuan,perkotaan,29.14568848
+Keluhan Kesehatan Masyarakat,Aceh,2022,perempuan,perdesaan,36.83495048
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,perempuan,perdesaan,34.26242887
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,perempuan,perdesaan,41.70034964
+Keluhan Kesehatan Masyarakat,Riau,2022,perempuan,perdesaan,30.91687339
+Keluhan Kesehatan Masyarakat,Jambi,2022,perempuan,perdesaan,32.33795648
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,perempuan,perdesaan,33.53579688
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,perempuan,perdesaan,23.18172216
+Keluhan Kesehatan Masyarakat,Lampung,2022,perempuan,perdesaan,38.55473292
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,perempuan,perdesaan,37.74173252
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,perempuan,perdesaan,29.91304757
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,perempuan,perdesaan,0
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,perempuan,perdesaan,40.39106158
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,perempuan,perdesaan,39.12592968
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,perempuan,perdesaan,45.11419946
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,perempuan,perdesaan,37.48126223
+Keluhan Kesehatan Masyarakat,Banten,2022,perempuan,perdesaan,35.79989803
+Keluhan Kesehatan Masyarakat,Bali,2022,perempuan,perdesaan,26.05892884
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,perempuan,perdesaan,50.82575766
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,perempuan,perdesaan,28.62649666
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,perempuan,perdesaan,31.84882351
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,perempuan,perdesaan,27.73834967
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,perempuan,perdesaan,38.83524052
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,perempuan,perdesaan,35.21896917
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,perempuan,perdesaan,38.4763012
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,perempuan,perdesaan,28.49843805
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,perempuan,perdesaan,24.08962874
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,perempuan,perdesaan,41.92083834
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,perempuan,perdesaan,35.22575343
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,perempuan,perdesaan,39.07290028
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,perempuan,perdesaan,32.61134775
+Keluhan Kesehatan Masyarakat,Maluku,2022,perempuan,perdesaan,16.55297618
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,perempuan,perdesaan,19.98522066
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,perempuan,perdesaan,22.01135305
+Keluhan Kesehatan Masyarakat,Papua,2022,perempuan,perdesaan,9.928039706
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,perempuan,perdesaan,35.78596158
+Keluhan Kesehatan Masyarakat,Aceh,2022,perempuan,gabungan,34.65859813
+Keluhan Kesehatan Masyarakat,Sumatera Utara,2022,perempuan,gabungan,32.16513956
+Keluhan Kesehatan Masyarakat,Sumatera Barat,2022,perempuan,gabungan,30.69469397
+Keluhan Kesehatan Masyarakat,Riau,2022,perempuan,gabungan,28.33256692
+Keluhan Kesehatan Masyarakat,Jambi,2022,perempuan,gabungan,27.39896858
+Keluhan Kesehatan Masyarakat,Sumatera Selatan,2022,perempuan,gabungan,33.94110325
+Keluhan Kesehatan Masyarakat,Bengkulu,2022,perempuan,gabungan,28.06696318
+Keluhan Kesehatan Masyarakat,Lampung,2022,perempuan,gabungan,34.7633247
+Keluhan Kesehatan Masyarakat,Kepulauan Bangka Belitung,2022,perempuan,gabungan,37.68901722
+Keluhan Kesehatan Masyarakat,Kepulauan Riau,2022,perempuan,gabungan,19.3415869
+Keluhan Kesehatan Masyarakat,DKI Jakarta,2022,perempuan,gabungan,17.54843094
+Keluhan Kesehatan Masyarakat,Jawa Barat,2022,perempuan,gabungan,33.16613218
+Keluhan Kesehatan Masyarakat,Jawa Tengah,2022,perempuan,gabungan,37.74745239
+Keluhan Kesehatan Masyarakat,DI Yogyakarta,2022,perempuan,gabungan,38.58678407
+Keluhan Kesehatan Masyarakat,Jawa Timur,2022,perempuan,gabungan,33.87678854
+Keluhan Kesehatan Masyarakat,Banten,2022,perempuan,gabungan,25.57668259
+Keluhan Kesehatan Masyarakat,Bali,2022,perempuan,gabungan,20.92075022
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Barat,2022,perempuan,gabungan,46.20701688
+Keluhan Kesehatan Masyarakat,Nusa Tenggara Timur,2022,perempuan,gabungan,32.25276468
+Keluhan Kesehatan Masyarakat,Kalimantan Barat,2022,perempuan,gabungan,26.30232864
+Keluhan Kesehatan Masyarakat,Kalimantan Tengah,2022,perempuan,gabungan,26.10265938
+Keluhan Kesehatan Masyarakat,Kalimantan Selatan,2022,perempuan,gabungan,34.30670319
+Keluhan Kesehatan Masyarakat,Kalimantan Timur,2022,perempuan,gabungan,28.77796543
+Keluhan Kesehatan Masyarakat,Kalimantan Utara,2022,perempuan,gabungan,36.53199398
+Keluhan Kesehatan Masyarakat,Sulawesi Utara,2022,perempuan,gabungan,24.29725668
+Keluhan Kesehatan Masyarakat,Sulawesi Tengah,2022,perempuan,gabungan,23.75097791
+Keluhan Kesehatan Masyarakat,Sulawesi Selatan,2022,perempuan,gabungan,36.01094377
+Keluhan Kesehatan Masyarakat,Sulawesi Tenggara,2022,perempuan,gabungan,33.31945722
+Keluhan Kesehatan Masyarakat,Gorontalo,2022,perempuan,gabungan,39.26397448
+Keluhan Kesehatan Masyarakat,Sulawesi Barat,2022,perempuan,gabungan,33.59873008
+Keluhan Kesehatan Masyarakat,Maluku,2022,perempuan,gabungan,16.93505396
+Keluhan Kesehatan Masyarakat,Maluku Utara,2022,perempuan,gabungan,18.73965591
+Keluhan Kesehatan Masyarakat,Papua Barat,2022,perempuan,gabungan,21.58774514
+Keluhan Kesehatan Masyarakat,Papua,2022,perempuan,gabungan,11.20679268
+Keluhan Kesehatan Masyarakat,INDONESIA,2022,perempuan,gabungan,31.94315512
